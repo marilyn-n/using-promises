@@ -17,3 +17,5 @@ fetch('https://api.github.com/users/github')
  
 fetch('http://domain.invalid/')
     .catch(err => console.error(err));
+
+// create more exercises with fetch, and axios using promises
